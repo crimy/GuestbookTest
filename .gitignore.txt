@@ -1,1 +1,3 @@
-*.xml
+spring.xml
+
+web.xml
